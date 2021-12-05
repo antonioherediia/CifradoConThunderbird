@@ -53,7 +53,13 @@ Lo primero que tenemos que hacer para una mayor comodidad es subir la clave púb
 
 Ya solo tenemos que enviar el correo, escribimos el destinatario, asunto, mensaje y seguidamente nos vamos a la pestaña seguridad (un candado en la parte superior) y seleccionamos las siguientes opciones, en este caso por mayor comodidad le daré a la opción adjuntar mi clave pública.
 
-![captura5](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura6.JPG)
+![captura6](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura6.JPG)
+
+Una vez configuramos si hacemos clic una vez en el candado no dará el ok de la clave pública
+
+
+![captura7](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura7.JPG)
+
 
 
 
