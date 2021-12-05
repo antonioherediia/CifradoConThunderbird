@@ -47,5 +47,16 @@ A continuación tendremos que crear las claves de encriptación (secreta y públ
 ![captura5](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura5.JPG)
 
 
+## Enviando el correo cifrado
+
+Lo primero que tenemos que hacer para una mayor comodidad es subir la clave pública de la persona a la cual vamos a enviar el correo, para ello nos vamos al menú superior, herramientas y abrimos "OPEN PGP key Manager", luego nos vamnos a "file" y seleccionamos "importar clave pública".
+
+Ya solo tenemos que enviar el correo, escribimos el destinatario, asunto, mensaje y seguidamente nos vamos a la pestaña seguridad (un candado en la parte superior) y seleccionamos las siguientes opciones, en este caso por mayor comodidad le daré a la opción adjuntar mi clave pública.
+
+![captura5](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura6.JPG)
+
+
+
 ## Referencias
 https://support.mozilla.org/es/kb/firma-digital-y-cifrado-de-mensajes
+https://www.youtube.com/watch?v=xAd5poWAXAM
