@@ -67,6 +67,13 @@ Como podemos ver el mensaje está correctamente cifrado
 ![captura8](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura8.JPG)
 
 
+## Instalando el certificado
+
+Para verificar que el mensaje cifrado es de la persona correcta, debemos instalar nuestro certificado digital, para ello nos vamos a la configuración, privacidad y seguridad, administrar certificado y importamos el nuestro, una vez insyalado nos vamos a la opción autoridades, buscamos la fabrica de moneda y timbre, hacemos clic derecho y permitimos todas las opciones.
+
+
+
+
 ## Referencias
 https://support.mozilla.org/es/kb/firma-digital-y-cifrado-de-mensajes
 https://www.youtube.com/watch?v=xAd5poWAXAM
