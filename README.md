@@ -28,7 +28,7 @@ Aquí vemos ya nuestras dos cuentas de prueba añadidas
 Una vez añadida la cuenta de correo, procederemos a instalar GPG, vamos a su página oficial y la descargamos, su instalación es muy sencilla con dos clics, enlace de descarga: https://www.gpg4win.org/
 
 Por último descargaremos el plugin de thunderbird Enigmail, para ello nos vamos de nuevo al menú de Thunderbird y hacemos clic en add-on, nos aparecerá la ventana de busqueda y añadimos la extensión con un clic.
-![captura3](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura3.JPG)
+![captura3](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/3.JPG)
 
 
 
