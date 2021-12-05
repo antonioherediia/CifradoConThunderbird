@@ -73,6 +73,11 @@ Para verificar que el mensaje cifrado es de la persona correcta, debemos instala
 
 
 
+![captura8](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura9.JPG)
+
+![captura8](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura10.JPG)
+
+
 
 ## Referencias
 https://support.mozilla.org/es/kb/firma-digital-y-cifrado-de-mensajes
