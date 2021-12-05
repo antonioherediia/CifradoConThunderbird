@@ -43,8 +43,8 @@ Por último descargaremos el plugin de thunderbird Enigmail, para ello nos vamos
 
 A continuación tendremos que crear las claves de encriptación (secreta y pública), para ello en la página principal de la cuenta de correo nos vamos a la opción "cifrado de extremo a extremo" y luego a "add key", de esta forma se generarán las claves
 
-![captura4](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/4.JPG)
-![captura5](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/5.JPG)
+![captura4](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/captura4.JPG)
+![captura5](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/captura5.JPG)
 
 
 ## Referencias
