@@ -1,12 +1,10 @@
 # Práctica CifradoConThunderbird 2ºASIR
 
 
-## Instalando las herramientas necesarias
-
-Necesitaremos tres herramientas, la primera es la platafroma de correos ene ste caso es thunderbird, solo tenemos que descargarla en su página inicial.
-
 ## Instalando Thunderbird y añadiendo cuentas
 
+
+Thunderbird es la plataforma de correos que usaremos para gestionar los correos
 
 Enlace de descarga: https://www.thunderbird.net/es-ES/
 
