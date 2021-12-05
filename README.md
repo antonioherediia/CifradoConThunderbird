@@ -23,5 +23,7 @@ Una vez instalada vamos a proceder a añadir las cuentas de correo, para ello no
 Aquí vemos ya nuestras dos cuentas de prueba añadidas
 
 
+![captura2](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura2.JPG)
+
 
 Referencias:
