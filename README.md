@@ -61,6 +61,10 @@ Una vez configuramos si hacemos clic una vez en el candado no dará el ok de la 
 ![captura7](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura7.JPG)
 
 
+Como podemos ver el mensaje está correctamente cifrado
+
+
+![captura8](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura8.JPG)
 
 
 ## Referencias
