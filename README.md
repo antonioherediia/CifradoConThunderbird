@@ -5,6 +5,8 @@
 
 Necesitaremos tres herramientas, la primera es la platafroma de correos ene ste caso es thunderbird, solo tenemos que descargarla en su página inicial.
 
+## Instalando Thunderbird y añadiendo cuentas
+
 
 Enlace de descarga: https://www.thunderbird.net/es-ES/
 
@@ -25,7 +27,13 @@ Aquí vemos ya nuestras dos cuentas de prueba añadidas
 
 ![captura2](https://github.com/antonioherediia/CifradoConThunderbird/blob/main/Captura2.JPG)
 
+## Instalando GPG4win
+
 Una vez añadida la cuenta de correo, procederemos a instalar GPG, vamos a su página oficial y la descargamos, su instalación es muy sencilla con dos clics, enlace de descarga: https://www.gpg4win.org/
+
+
+## Instalando Enigmail
+
 
 Por último descargaremos el plugin de thunderbird Enigmail, para ello nos vamos de nuevo al menú de Thunderbird y hacemos clic en add-on, nos aparecerá la ventana de busqueda y añadimos la extensión con un clic.
 
