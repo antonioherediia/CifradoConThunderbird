@@ -1,4 +1,4 @@
-# Práctica Cifrado Con Thunderbird 2ºASIR
+# Práctica Cifrado Con Thunderbird
 
 
 ## Instalando Thunderbird y añadiendo cuentas
