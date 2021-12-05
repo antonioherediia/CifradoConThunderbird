@@ -40,5 +40,5 @@ Por último descargaremos el plugin de thunderbird Enigmail, para ello nos vamos
 
 
 
-Referencias:
+## Referencias
 https://support.mozilla.org/es/kb/firma-digital-y-cifrado-de-mensajes
